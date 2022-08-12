@@ -1,0 +1,9 @@
+{
+	"name": "tarek-ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "44ca5dcd-cb73-4063-b64a-9f887a742015",
+		"tenantId": "4d9c87dc-66f1-4c67-88f0-e13ae8e5cf39"
+	}
+}
